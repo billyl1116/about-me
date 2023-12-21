@@ -1,5 +1,7 @@
 # about-me
-## Billy Liu
+## **Billy Liu**
 ### billyxinl@nycstudents.net
-High School of Telecommunication Arts and Technology
-
+* High School of Telecommunication Arts and Technology
+* i like color black
+* i like meat
+---
