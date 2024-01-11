@@ -5,6 +5,6 @@
 2. i like color cyan
 * i like 5 peoples meat
 apple like fish
-fish hate applea
+fish hate apple
 ---
 [link to my portfoilo](https://billyl1116.github.io/)
